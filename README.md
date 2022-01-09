@@ -1,0 +1,1 @@
+# my-type-script-doc
